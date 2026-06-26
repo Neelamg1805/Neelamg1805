@@ -50,7 +50,9 @@ Skilled in **Redux Toolkit, Context API, Firebase, Node.js, MySQL, Git, GitHub, 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,nodejs,firebase,mysql,redux,git,github,postman,vscode,androidstudio,figma" />
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNtdWh5M2lwdm5jb3VwbjNtbzdmdmN5dGJmNHBjc3Byb2o0ZzM5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
+</p>
 ---
 
 # 📊 GitHub Stats
