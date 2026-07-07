@@ -37,6 +37,11 @@ Skilled in **Redux Toolkit, Context API, Firebase, Node.js, MySQL, Git, GitHub, 
 
 ---
 
+**AI Tools**
+- 🤖 Cursor AI
+- 💬 ChatGPT
+- ⚡ GitHub Copilot
+- 🧠 OpenAI Codex
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/neelam-gaykwad-413396346)
@@ -70,11 +75,6 @@ Skilled in **Redux Toolkit, Context API, Firebase, Node.js, MySQL, Git, GitHub, 
 
 </p>
 
-**AI Tools**
-- 🤖 Cursor AI
-- 💬 ChatGPT
-- ⚡ GitHub Copilot
-- 🧠 OpenAI Codex
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Neelamg1805\&theme=tokyonight\&no-frame=true\&margin-w=10)
