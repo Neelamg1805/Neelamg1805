@@ -62,7 +62,19 @@ Skilled in **Redux Toolkit, Context API, Firebase, Node.js, MySQL, Git, GitHub, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelamg1805\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
+## 💻 Daily Tools
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,firebase,redux,git,github,vscode,androidstudio,figma,postman" />
+
+</p>
+
+**AI Tools**
+- 🤖 Cursor AI
+- 💬 ChatGPT
+- ⚡ GitHub Copilot
+- 🧠 OpenAI Codex
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Neelamg1805\&theme=tokyonight\&no-frame=true\&margin-w=10)
